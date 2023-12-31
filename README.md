@@ -3,4 +3,4 @@ Customer behaviour will be evaluated based on the RFM scores and then grouped th
 <br>
 Language: Python
 <br>
-Data: Online Retail dataset downloaded from Kaggle.
+Data: [Online Retail dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail?select=OnlineRetail.csv) dataset downloaded from Kaggle.
